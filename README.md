@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I go by the username BurnyLlama.
+
+I am an amateur developer/designer. ✨
+
+Dunno. 🤔
+
 <!--
 **BurnyLlama/BurnyLlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
